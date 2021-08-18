@@ -13,6 +13,7 @@
 		09C2DDA526CCFEF5002CBE89 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09C2DDA426CCFEF5002CBE89 /* Preview Assets.xcassets */; };
 		09C2DDAF26CD0162002CBE89 /* IdentifyingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C2DDAE26CD0162002CBE89 /* IdentifyingViews.swift */; };
 		09C2DDB326CD066D002CBE89 /* HidingAndGrouping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C2DDB226CD066D002CBE89 /* HidingAndGrouping.swift */; };
+		09C2DDB626CD0BE0002CBE89 /* ReadingTheValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09C2DDB526CD0BE0002CBE89 /* ReadingTheValue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		09C2DDA626CCFEF5002CBE89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09C2DDAE26CD0162002CBE89 /* IdentifyingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifyingViews.swift; sourceTree = "<group>"; };
 		09C2DDB226CD066D002CBE89 /* HidingAndGrouping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidingAndGrouping.swift; sourceTree = "<group>"; };
+		09C2DDB526CD0BE0002CBE89 /* ReadingTheValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingTheValue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				09C2DDAE26CD0162002CBE89 /* IdentifyingViews.swift */,
 				09C2DDB226CD066D002CBE89 /* HidingAndGrouping.swift */,
+				09C2DDB526CD0BE0002CBE89 /* ReadingTheValue.swift */,
 			);
 			path = "Day 74";
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				09C2DDA026CCFEF1002CBE89 /* ContentView.swift in Sources */,
 				09C2DDAF26CD0162002CBE89 /* IdentifyingViews.swift in Sources */,
 				09C2DD9E26CCFEF1002CBE89 /* AccessibilityApp.swift in Sources */,
+				09C2DDB626CD0BE0002CBE89 /* ReadingTheValue.swift in Sources */,
 				09C2DDB326CD066D002CBE89 /* HidingAndGrouping.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
